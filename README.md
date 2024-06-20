@@ -12,8 +12,8 @@ I'm currently involved in competitive programming, learning more algorithms!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TahsinArafat&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TahsinArafat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 📊 Competitive Programming Stats:
+![](https://codeforces-readme-stats.vercel.app/api/card?username=TahsinArafat&theme=tokyonight&disable_animations=false&show_icons=true&force_username=false)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TahsinArafat&limit=5&theme=dark&combine_all_yearly_contributions=true)
