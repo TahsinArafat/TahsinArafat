@@ -13,7 +13,7 @@ I'm currently involved in competitive programming, learning more algorithms!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TahsinArafat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 📊 Competitive Programming Stats:
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=TahsinArafat&theme=tokyonight&disable_animations=false&show_icons=true&force_username=false)](https://codeforces.com/profile/TahsinArafat)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=TahsinArafat&theme=tokyonight&disable_animations=false&show_icons=true&force_username=false)](https://codeforces.com/profile/TahsinArafat) [![LeetCode Stats](https://leetcard.jacoblin.cool/TahsinArafat?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/TahsinArafat/)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TahsinArafat&limit=5&theme=dark&combine_all_yearly_contributions=true)
