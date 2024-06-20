@@ -15,7 +15,7 @@ I'm currently involved in competitive programming, learning more algorithms!
 # 📊 Competitive Programming Stats:
 <span>
 <a href="https://codeforces.com/profile/TahsinArafat">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=RedHeadphone&theme=github_dark&force_username=true&border_color=404040" alt="TahsinArafat Codeforces Stats"/>
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=TahsinArafat&theme=github_dark&force_username=true&border_color=404040" alt="TahsinArafat Codeforces Stats"/>
 </a>
 <a href="https://leetcode.com/u/TahsinArafat/">
 <img height="316" src="https://leetcard.jacoblin.cool/TahsinArafat?theme=dark&font=Fira%20Code&ext=contest" alt="TahsinArafat Leetcode Stats"/>
@@ -27,5 +27,3 @@ I'm currently involved in competitive programming, learning more algorithms!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TahsinArafat&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
