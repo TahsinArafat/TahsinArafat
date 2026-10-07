@@ -1,0 +1,47 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tahsin Arafat cover">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1B34"/>
+      <stop offset="0.5" stop-color="#123A6B"/>
+      <stop offset="1" stop-color="#1877F2"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 40) rotate(135) scale(560 420)">
+      <stop offset="0" stop-color="#7CC4FF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#1877F2" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#42B0FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#8AD6FF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#42B0FF" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .name { font: 800 68px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #FFFFFF; letter-spacing: -1px; }
+      .tagline { font: 400 26px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #CFE3FF; }
+      .meta { font: 500 19px 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; fill: #9FC3F5; letter-spacing: 0.5px; }
+      .dot { fill: #31D158; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#sky)"/>
+  <rect width="1200" height="360" fill="url(#glow)"/>
+
+  <g stroke="#8AD6FF" stroke-opacity="0.08" stroke-width="1">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200"/>
+    <path d="M120 0V360M300 0V360M480 0V360M660 0V360M840 0V360M1020 0V360"/>
+  </g>
+
+  <g stroke="#8AD6FF" stroke-opacity="0.35" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M60 96V64h32"/>
+    <path d="M60 264v32h32"/>
+    <path d="M1140 96V64h-32"/>
+    <path d="M1140 264v32h-32"/>
+  </g>
+
+  <text class="name" x="72" y="172">Tahsin Arafat</text>
+  <text class="tagline" x="74" y="216">Competitive programmer · building for the web</text>
+
+  <text class="meta" x="74" y="277">C / C++  ·  PHP  ·  HTML / CSS  ·  WordPress</text>
+  <text class="meta" x="900" y="277">Codeforces · LeetCode</text>
+
+  <rect y="352" width="1200" height="8" fill="url(#rule)"/>
+</svg>
