@@ -1,9 +1,4 @@
-<img src="assets/cover.svg" alt="Tahsin Arafat — cover" width="100%"/>
-
-<h1 align="center">
- <img src="assets/avatar.svg" alt="Tahsin Arafat" width="120" valign="middle"/><br/>
- Tahsin Arafat
-</h1>
+<h1 align="center">Tahsin Arafat</h1>
 
 <p align="center"><i>Competitive programmer · learning more algorithms · building for the web</i></p>
 
